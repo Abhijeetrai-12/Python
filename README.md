@@ -1,7 +1,6 @@
-# Python
+
 Restaurant management System using python (Mini project)
 <---------Here's is a Code.------------------->
-# Define the menu of a restaurant
 Menu = {
     'Pizza':40,
     'Pasta':50,
@@ -12,7 +11,6 @@ Menu = {
     'chai':10,
 }
 print(Menu)
-#Greet
 print("welcome to ABHIJEET's RESTAURANT")
 print("Pizza:Rs40\nPasta:Rs50\nBurger:Rs60\nSalad:Rs70\nCoffee:Rs80\nMaggie:Rs35\nChai:Rs10")
 Order_total = 0 

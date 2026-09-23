@@ -1,4 +1,3 @@
-
 Restaurant management System using python (Mini project)
 <---------Here's is a Code.------------------->
 Menu = {

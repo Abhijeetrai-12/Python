@@ -1,5 +1,4 @@
 Restaurant management System using python (Mini project)
-<---------Here's is a Code.------------------->
 Menu = {
     'Pizza':40,
     'Pasta':50,
@@ -7,7 +6,7 @@ Menu = {
     'salad':70,
     'coffee':80,
     'maggie':35,
-    'chai':10,
+    'chai':10,   \\
 }
 print(Menu)
 print("welcome to ABHIJEET's RESTAURANT")

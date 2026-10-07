@@ -6,7 +6,7 @@ Menu = {
     'salad':70,
     'coffee':80,
     'maggie':35,
-    'chai':10,   \\
+    'chai':10,   
 }
 print(Menu)
 print("welcome to ABHIJEET's RESTAURANT")
